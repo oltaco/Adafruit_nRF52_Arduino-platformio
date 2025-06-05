@@ -1,0 +1,8 @@
+{
+  "description": "Adafruit Arduino Framework for NRF52",
+  "name": "framework-arduinoadafruitnrf52",
+  "url": "https://github.com/oltaco/Adafruit_nRF52_Arduino-platformio",
+  "version": "1.10701.0"
+}
+
+
